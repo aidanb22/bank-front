@@ -1,0 +1,9 @@
+Some general notes for the project to go ahead and realize for next ones to create!
+
+1. Look for react third party packages instead of attempting to create everything, Chart.js is a great example however we can use ChatGPT to figure out other third party
+packages that could be of use for creating apps.
+
+2. Create a lot of comments to figure out what we are doing where! Even use AI to do this for us whenever we cannot
+
+3. Start thinking about how we can transition from the backend he uses to one that we can use
+
